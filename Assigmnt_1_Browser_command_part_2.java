@@ -1,3 +1,4 @@
+//developed as part of browser command
 package selenium_assignmnts;
 
 import org.openqa.selenium.By;
